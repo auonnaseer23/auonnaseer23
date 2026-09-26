@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Muhammad Auon Naseer
 
-I am a 3rd-year Bachelor of Computer Science student at FAST-NUCES, Lahore. I am passionate about software architecture, artificial intelligence, and building scalable full-stack applications.
+I am a Final-year Bachelor of Computer Science student at FAST-NUCES, Lahore. I am passionate about software architecture, artificial intelligence, and building scalable full-stack applications.
 
 * 🔭 I’m currently working on **KAIROS** (Software Architecture) and **NeuroScan** (AI Intracranial Tumor Detection).
 * 🌱 I’m currently diving deep into **System Design** and **Advanced Machine Learning**.
